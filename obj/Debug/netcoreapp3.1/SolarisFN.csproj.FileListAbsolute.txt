@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\SolarisFN\obj\Debug\netcoreapp3.1\SolarisFN.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SolarisFN\obj\Debug\netcoreapp3.1\SolarisFN.Form1.resources
+C:\Users\User\source\repos\SolarisFN\obj\Debug\netcoreapp3.1\SolarisFN.Properties.Resources.resources
+C:\Users\User\source\repos\SolarisFN\obj\Debug\netcoreapp3.1\SolarisFN.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SolarisFN\obj\Debug\netcoreapp3.1\SolarisFN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SolarisFN\obj\Debug\netcoreapp3.1\SolarisFN.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SolarisFN\obj\Debug\netcoreapp3.1\SolarisFN.AssemblyInfo.cs
+C:\Users\User\source\repos\SolarisFN\obj\Debug\netcoreapp3.1\SolarisFN.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SolarisFN\bin\Debug\netcoreapp3.1\SolarisFN.exe
+C:\Users\User\source\repos\SolarisFN\bin\Debug\netcoreapp3.1\SolarisFN.deps.json
+C:\Users\User\source\repos\SolarisFN\bin\Debug\netcoreapp3.1\SolarisFN.runtimeconfig.json
+C:\Users\User\source\repos\SolarisFN\bin\Debug\netcoreapp3.1\SolarisFN.runtimeconfig.dev.json
+C:\Users\User\source\repos\SolarisFN\bin\Debug\netcoreapp3.1\SolarisFN.dll
+C:\Users\User\source\repos\SolarisFN\bin\Debug\netcoreapp3.1\SolarisFN.pdb
+C:\Users\User\source\repos\SolarisFN\obj\Debug\netcoreapp3.1\SolarisFN.dll
+C:\Users\User\source\repos\SolarisFN\obj\Debug\netcoreapp3.1\SolarisFN.pdb
+C:\Users\User\source\repos\SolarisFN\obj\Debug\netcoreapp3.1\SolarisFN.genruntimeconfig.cache
